@@ -30,7 +30,7 @@ button {
 }
 
 .logo {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -68,12 +68,15 @@ button {
     color: var(--active-press-cl);
 }
 
+.address {
+    font-style: normal;
+}
+
 .address-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--main-dark-cl);
-    font-style: normal;
 }
 
 .address-link:hover,
