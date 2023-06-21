@@ -9,8 +9,8 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: var(--main-background-cl)
-    color: var(--main-dark-cl)
+    color: var(--main-dark-cl);
+    background-color: var(--main-background-cl);
 }
 
 a {
@@ -21,12 +21,12 @@ a {
 button {
     font-family: inherit;
     cursor: pointer;
-    background: var(--link-blue-cl)
+    background: var(--link-blue-cl);
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: var(--main-background-cl)
+    color: var(--main-background-cl);
 }
 
 .logo {
@@ -36,7 +36,7 @@ button {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--link-blue-cl)
+    color: var(--link-blue-cl);
 }
 
 .list {
@@ -44,11 +44,11 @@ button {
 }
 
 .studio {
-    color: var(--main-title-cl)
+    color: var(--main-title-cl);
 }
 
 .studio-down {
-    color: var(--light-cl)
+    color: var(--light-cl);
 }
 
 .link {
@@ -60,30 +60,30 @@ button {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--main-title-cl)
+    color: var(--main-title-cl);
 }
 
 .nav-link:hover,
 .nav-link:focus {
-    color: var(--active-press-cl)
+    color: var(--active-press-cl);
 }
 
 .address-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--main-dark-cl)
+    color: var(--main-dark-cl);
     font-style: normal;
 }
 
 .address-link:hover,
 .address-link:focus {
-    color: var(--active-press-cl)
+    color: var(--active-press-cl);
 }
 
 .hero-section {
-    background-color: var(--main-title-cl)
-    color: var(--main-background-cl)
+    background-color: var(--main-title-cl);
+    color: var(--main-background-cl);
     text-align: center;
 }
 
@@ -95,13 +95,13 @@ button {
 }
 
 .hero-btn {
-    background-color: var(--link-blue-cl)
-    color: var(--main-background-cl)
+    background-color: var(--link-blue-cl);
+    color: var(--main-background-cl);
 }
 
 .hero-btn:hover,
 .hero-btn:focus {
-    background-color: var(--active-press-cl)
+    background-color: var(--active-press-cl);
 }
 
 .features-section {
@@ -114,14 +114,14 @@ button {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(--main-title-cl)
+    color: var(--main-title-cl);
 }
 
 .section-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--main-dark-cl)
+    color: var(--main-dark-cl);
 }
 
 .what-title {
@@ -132,15 +132,15 @@ button {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: var(--main-title-cl)
+    color: var(--main-title-cl);
 }
 
 .section-team {
-    background-color: var(--light-cl)
+    background-color: var(--light-cl);
 }
 
 .team-box {
-    background-color: var(--main-background-cl)
+    background-color: var(--main-background-cl);
 }
 
 .team-title {
@@ -151,29 +151,29 @@ button {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: var(--main-title-cl)
+    color: var(--main-title-cl);
 }
 
 .portfolio-btn {
-    color: var(--link-blue-cl)
-    background-color: var(--light-cl)
+    color: var(--link-blue-cl);
+    background-color: var(--light-cl);
 }
 
 .portfolio-btn:hover,
 .portfolio-btn:focus {
-    background-color: var(--active-press-cl)
-    color: var(--main-background-cl)
+    background-color: var(--active-press-cl);
+    color: var(--main-background-cl);
     }
    
    
 
 .footer-section {
-    background-color: var(--main-title-cl)
+    background-color: var(--main-title-cl);
     text-align: left;
 }
 
 .footer-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--light-cl)
+    color: var(--light-cl);
 }
